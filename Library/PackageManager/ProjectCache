@@ -5,240 +5,21 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638103180679315554
-    m_Hash: 2493206812
+      ticks: 638138724173381725
+    m_Hash: 4015882236
   m_LockFileStatus:
     m_FilePath: D:/USUARIS/AKAIYFS/Desktop/2Dgame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638127344276813456
-    m_Hash: 2548674612
+      ticks: 638145526032535628
+    m_Hash: 2304243932
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@5.0.4
-      testable: 0
-      isDirectDependency: 1
-      version: 5.0.4
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.2d.animation@5.0.4
-      assetPath: Packages/com.unity.2d.animation
-      name: com.unity.2d.animation
-      displayName: 2D Animation
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: 2D Animation provides all the necessary tooling and runtime components
-        for skeletal animation using Sprites.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 5.0.2
-        - 5.0.4
-        compatible:
-        - 5.0.4
-        verified: 5.0.4
-      dependencies:
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      keywords:
-      - 2d
-      - animation
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 3cf59035d02a34d40d678f2cd5f1c65515a8347e
-        path: 
-    - packageId: com.unity.2d.pixel-perfect@4.0.1
-      testable: 0
-      isDirectDependency: 1
-      version: 4.0.1
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
-      assetPath: Packages/com.unity.2d.pixel-perfect
-      name: com.unity.2d.pixel-perfect
-      displayName: 2D Pixel Perfect
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: tool
-      description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera
-        component which ensures your pixel art remains crisp and clear at different
-        resolutions, and stable in motion.
-
-
-        It is a single component that
-        makes all the calculations needed to scale the viewport with resolution changes,
-        removing the hassle from the user. The user can adjust the definition of
-        the pixel art rendered within the camera viewport through the component settings,
-        as well preview any changes immediately in Game view by using the Run in
-        Edit Mode feature.'
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.0.1
-        compatible:
-        - 4.0.1
-        verified: 4.0.1
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - pixel
-      - perfect
-      - 2D
-      - sprite
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
-        path: 
-    - packageId: com.unity.2d.psdimporter@4.0.2
-      testable: 0
-      isDirectDependency: 1
-      version: 4.0.2
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
-      assetPath: Packages/com.unity.2d.psdimporter
-      name: com.unity.2d.psdimporter
-      displayName: 2D PSD Importer
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop
-        Big) file format. The ScriptedImporter is currently targeted for users who
-        wants to create multi Sprite character animation using Unity 2D Animation
-        Package.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.0.2
-        compatible:
-        - 4.0.2
-        verified: 4.0.2
-      dependencies:
-      - name: com.unity.2d.common
-        version: 4.0.2
-      - name: com.unity.2d.animation
-        version: 5.0.2
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      - name: com.unity.2d.animation
-        version: 5.0.4
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      keywords:
-      - 2d
-      - psdimporter
-      - assetimporter
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 4e96f68a7587d87b4fee15d6f88a5d86c2afa9aa
-        path: 
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 1
@@ -290,90 +71,6 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@5.1.1
-      testable: 0
-      isDirectDependency: 1
-      version: 5.1.1
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
-      assetPath: Packages/com.unity.2d.spriteshape
-      name: com.unity.2d.spriteshape
-      displayName: 2D SpriteShape
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: SpriteShape Runtime & Editor Package contains the tooling and
-        the runtime component that allows you to create very organic looking spline
-        based 2D worlds. It comes with intuitive configurator and a highly performant
-        renderer.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 5.1.1
-        compatible:
-        - 5.1.1
-        verified: 5.1.1
-      dependencies:
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.2d.path
-        version: 4.0.1
-      - name: com.unity.modules.physics2d
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.mathematics
-        version: 1.1.0
-      - name: com.unity.2d.common
-        version: 4.0.3
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      - name: com.unity.2d.path
-        version: 4.0.1
-      - name: com.unity.modules.physics2d
-        version: 1.0.0
-      keywords:
-      - 2d
-      - shape
-      - spriteshape
-      - smartsprite
-      - spline
-      - terrain2d
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 3cf59035d02a34d40d678f2cd5f1c65515a8347e
-        path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
       isDirectDependency: 1
@@ -423,6 +120,122 @@ m_PackageAssets:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.ads@3.6.1
+      testable: 0
+      isDirectDependency: 1
+      version: 3.6.1
+      source: 1
+      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.ads@3.6.1
+      assetPath: Packages/com.unity.ads
+      name: com.unity.ads
+      displayName: Advertisement
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Unity Ads is a video ad network for iOS and Android that allows
+        you to quickly and effectively monetize your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 3.6.1
+        compatible:
+        - 3.6.1
+        verified: 3.6.1
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - ads
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ads.git
+        revision: aa1c5a9556a9bb62eef662153cfaa1075805106f
+        path: 
+    - packageId: com.unity.analytics@3.5.3
+      testable: 0
+      isDirectDependency: 1
+      version: 3.5.3
+      source: 1
+      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.analytics@3.5.3
+      assetPath: Packages/com.unity.analytics
+      name: com.unity.analytics
+      displayName: Analytics Library
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Unity Analytics Library contains the Analytics Event Tracker
+        component, the Data Privacy plug-in, and the Standard Events API.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 3.5.3
+        compatible:
+        - 3.5.3
+        verified: 3.5.3
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - analytics
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
+        revision: 02d361e53eda59ceb7d02ba9bd15ff55a093ad83
         path: 
     - packageId: com.unity.collab-proxy@1.3.9
       testable: 0
@@ -649,6 +462,93 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: 547f63839bdc87e0aed2c9e0d84f8f6336a83ea3
+        path: 
+    - packageId: com.unity.purchasing@2.2.2
+      testable: 0
+      isDirectDependency: 1
+      version: 2.2.2
+      source: 1
+      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.purchasing@2.2.2
+      assetPath: Packages/com.unity.purchasing
+      name: com.unity.purchasing
+      displayName: In App Purchasing
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Unity IAP supports the iOS, Mac, tvOS, Google Play, Facebook
+        Gameroom, Windows, Amazon, and Samsung Galaxy app stores. Additionally, it
+        can work in tandem with the Unity Distribution Portal in order to synchronize
+        catalogs and transactions with even more stores.
+
+
+        With Unity IAP,
+        setting up in-app purchases for your game across multiple app stores has
+        never been easier.
+
+
+        Use one common API to access all stores for
+        free. With just a few lines of code, you can fully understand and optimize
+        your in-game economy.
+
+
+        Unity IAP automatically couples with Unity
+        Analytics enabling you to monitor and act on trends in your revenue and purchase
+        data across multiple platforms.
+
+
+        Includes client-side receipt validation
+        for Apple App Store and Google Play.
+
+
+        After installing this package,
+        please make sure to open the Services Window and enable In-App Purchasing
+        to use its features. In the In-App Purchasing settings, please make sure
+        to import the Asset Store plugin if you have not already done so. This is
+        necessary to include all of the features.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.2.2
+        compatible:
+        - 2.2.2
+        verified: 2.2.2
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - purchasing
+      - iap
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
+        revision: ee61dd3b9b07a5b3c6d54795306661ce1d0718ad
         path: 
     - packageId: com.unity.test-framework@1.1.22
       testable: 0
@@ -922,6 +822,77 @@ m_PackageAssets:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.xr.legacyinputhelpers@2.1.7
+      testable: 0
+      isDirectDependency: 1
+      version: 2.1.7
+      source: 1
+      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
+      assetPath: Packages/com.unity.xr.legacyinputhelpers
+      name: com.unity.xr.legacyinputhelpers
+      displayName: XR Legacy Input Helpers
+      author:
+        name: 
+        email: 
+        url: 
+      category: XR
+      type: 
+      description: This package includes the tracked pose driver for the legacy input
+        system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+        Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects
+        to track input devices, the XR Bindings Seeding Tool adds a menu item under
+        the 'Assets' menu which populates the Input Asset with Unity's crossplatform
+        Input Bindings
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.7
+        compatible:
+        - 2.1.7
+        verified: 2.1.7
+      dependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      keywords:
+      - TPD
+      - Tracked Pose Driver
+      - XR
+      - Input
+      - Helpers
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+        revision: b2024928b8140a10ad43aeb5824d2f08bb8796bc
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -2715,174 +2686,6 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
-        path: 
-    - packageId: com.unity.mathematics@1.1.0
-      testable: 0
-      isDirectDependency: 0
-      version: 1.1.0
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.mathematics@1.1.0
-      assetPath: Packages/com.unity.mathematics
-      name: com.unity.mathematics
-      displayName: Mathematics
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Unity's C# SIMD math library providing vector types and math functions
-        with a shader like syntax.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.1.0
-        - 1.2.1
-        compatible:
-        - 1.1.0
-        - 1.2.1
-        verified: 1.2.1
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - unity
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git@github.com:Unity-Technologies/Unity.Mathematics.git
-        revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
-        path: 
-    - packageId: com.unity.2d.common@4.0.3
-      testable: 0
-      isDirectDependency: 0
-      version: 4.0.3
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.2d.common@4.0.3
-      assetPath: Packages/com.unity.2d.common
-      name: com.unity.2d.common
-      displayName: 2D Common
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: 2D Common is a package that contains shared functionalities that
-        are used by most of the other 2D packages.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.0.2
-        - 4.0.3
-        compatible:
-        - 4.0.2
-        - 4.0.3
-        verified: 4.0.3
-      dependencies:
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.2d.sprite
-        version: 1.0.0
-      - name: com.unity.modules.uielements
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.jsonserialize
-        version: 1.0.0
-      - name: com.unity.modules.uielementsnative
-        version: 1.0.0
-      keywords:
-      - 2d
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: c97def465b1932276762fc13f4cfee58da99d5e9
-        path: 
-    - packageId: com.unity.2d.path@4.0.1
-      testable: 0
-      isDirectDependency: 0
-      version: 4.0.1
-      source: 1
-      resolvedPath: D:\USUARIS\AKAIYFS\Desktop\2Dgame\Library\PackageCache\com.unity.2d.path@4.0.1
-      assetPath: Packages/com.unity.2d.path
-      name: com.unity.2d.path
-      displayName: 2D Path
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: "2D Path provides tooling to edit shapes (polygons and B\xE9zier
-        splines) in EditorWindows and the SceneView."
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.0.1
-        compatible:
-        - 4.0.1
-        verified: 4.0.1
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - 2d
-      - path
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
