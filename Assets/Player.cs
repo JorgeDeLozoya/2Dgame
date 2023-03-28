@@ -23,8 +23,8 @@ public class Player : MonoBehaviour {
 		movement = Input.GetAxis("Horizontal") * movementSpeed;
 		Horizontal = Input.GetAxisRaw("Horizontal");
 
-		if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-		else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+		if (Horizontal < 0.0f) transform.localScale = new Vector3(-4.0f, 4.0f, 4.0f);
+		else if (Horizontal > 0.0f) transform.localScale = new Vector3(4.0f, 4.0f, 4.0f);
 
 	}
 
